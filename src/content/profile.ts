@@ -1,26 +1,27 @@
 import { Profile } from "@/types/profile";
 
 export const profile: Profile = {
-  name: "홍길동",
-  role: "AI R&D Lead",
+  name: "이다솔",
+  role: "AI R&D Engineer",
   tagline: "기술로 문제를 해결하고, 가치를 만듭니다.",
   bio: `안녕하세요, 저는 AI와 소프트웨어 개발에 열정을 가진 개발자입니다.
+
 
 복잡한 문제를 단순하고 우아한 솔루션으로 해결하는 것을 좋아합니다. 스타트업부터 대기업까지 다양한 환경에서 프로덕트를 설계하고 출시한 경험이 있으며, 팀을 이끌며 함께 성장하는 것을 즐깁니다.
 
 현재는 AI/ML 기술을 활용한 혁신적인 프로덕트 개발에 집중하고 있습니다.`,
-  email: "hello@example.com",
+  email: "issoldev214@gmail.com",
   location: "Seoul, South Korea",
   resumeUrl: "/resume.pdf",
   socialLinks: [
     {
       name: "GitHub",
-      url: "https://github.com/username",
+      url: "https://github.com/issol14",
       icon: "Github",
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/username",
+      url: "https://linkedin.com/in/issol",
       icon: "Linkedin",
     },
     {
